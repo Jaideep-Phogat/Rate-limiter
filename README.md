@@ -13,3 +13,9 @@ How to run it :-
  - go to http://localhost:3000/api/data in your browser.
  - refresh the page multiple times then you will get Status code 429 (Too many request),
  - wait for 1 minute (configurable to custom value in middleware) then you'll be able to send the request again.
+
+Before - 
+![image](https://github.com/Jaideep-Phogat/Rate-limiter/assets/136599314/7adac1af-4bc5-4a1d-a510-db71948c3d9c)
+
+After- 
+![image](https://github.com/Jaideep-Phogat/Rate-limiter/assets/136599314/270ea633-5ca5-4b82-95a1-d7ae50cb29f9)
